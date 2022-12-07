@@ -1,0 +1,2 @@
+#!/bin/bash 14-copy_html
+in -s /bin/ls __ls__
